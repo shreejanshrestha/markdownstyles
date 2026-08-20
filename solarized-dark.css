@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Inconsolata);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Cascadia+Mono);
+@import url(https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c);
+@import url(https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,800);
 article,
 aside,
 details,
@@ -158,11 +158,11 @@ table {
   border-spacing: 0;
 }
 html {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 pre,
 code {
-  font-family: 'Inconsolata', sans-serif;
+  font-family: 'Cascadia Mono', sans-serif;
 }
 h1,
 h2,
@@ -170,8 +170,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-weight: 700;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-weight: 800;
 }
 html {
   background-color: #073642;
